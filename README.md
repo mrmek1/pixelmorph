@@ -11,10 +11,10 @@ PixelMorph is an image processing application built using **PyQt5** that allows 
 ## Screenshots
 
 ### Before Pixel Sorting
-![Before Pixel Sorting]([path/to/your/before-image.png)](https://github.com/mrmek1/pixelmorph/blob/main/After.png?raw=true)
+![Before Pixel Sorting](https://github.com/mrmek1/pixelmorph/blob/main/Before.png?raw=true)
 
 ### After Pixel Sorting
-![After Pixel Sorting](path/to/your/after-image.png)
+![After Pixel Sorting](p[ath/to/your/after-image.png](https://github.com/mrmek1/pixelmorph/blob/main/After.png?raw=true))
 
 ## Requirements
 
